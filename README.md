@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![Steam Card](https://card.yuy1n.io/card/76561199097443840/gradient1,en,badge,group)
 
 <!--
 **LoveIiei/LoveIiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
