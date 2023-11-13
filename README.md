@@ -1,4 +1,5 @@
-### ![Steam Card](https://card.yuy1n.io/card/76561199097443840/gradient1,en,badge,group)[![LoveIiei's LeetCode stats](https://leetcode-stats-six.vercel.app/username=LoveIiei)](https://github.com/LoveIiei/leetcode-stats)
+### ![Steam Card](https://card.yuy1n.io/card/76561199097443840/gradient1,en,badge,group)
+[![LoveIiei's LeetCode stats](https://leetcode-stats-six.vercel.app/username=LoveIiei)](https://github.com/LoveIiei/leetcode-stats)
 
 
 <!--
