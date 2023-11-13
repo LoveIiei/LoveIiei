@@ -1,4 +1,5 @@
 ### ![Steam Card](https://card.yuy1n.io/card/76561199097443840/gradient1,en,badge,group)
+<img src="https://leetcode-stats-six.vercel.app/?username=LoveIiei />
 
 <!--
 **LoveIiei/LoveIiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
