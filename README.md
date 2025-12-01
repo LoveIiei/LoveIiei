@@ -1,5 +1,4 @@
 ### ![Steam Card](https://card.yuy1n.io/card/76561199097443840/gradient1,en,badge,group) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveIiei&layout=compact" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoveIiei&theme=default" />
 
 <!--
